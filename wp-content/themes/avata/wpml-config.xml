@@ -1,0 +1,314 @@
+<wpml-config>
+    <admin-texts>
+        <key name='avata'>
+			<!-- section banner -->
+			<key name="section_slider_banner_1">
+				<key name="0">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+				<key name="1">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+				<key name="2">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+				<key name="3">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+				<key name="4">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+				<key name="5">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+				<key name="6">
+			   		<key name="title" />
+			  		<key name="description" />
+					<key name="left_btn_text" />
+					<key name="right_btn_text" />
+				</key>
+			</key>
+			
+			<!-- section banner 2 -->
+			<key name='section_title_banner_2' />
+            <key name='section_subtitle_banner_2' />
+			<key name='section_btntxt_1_banner_2' />
+			<key name='section_btntxt_2_banner_2' />
+			
+		    <!-- section service 1-->
+            <key name='section_title_service_1' />
+            <key name='section_subtitle_service_1' />
+			<key name="section_items_service_1">
+				<key name="0">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="1">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="2">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="3">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="4">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="5">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="6">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="7">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+				<key name="8">
+			   		<key name="title" />
+			  		<key name="description" />
+				</key>
+			 </key>
+			 
+			 <!-- section intro -->
+			<key name='section_title_intro_1' />
+            <key name='section_subtitle_intro_1' />
+			<key name="section_content_intro_1" />
+			
+			<!-- section gallery -->
+			<key name='section_title_gallery' />
+            <key name='section_subtitle_gallery' />
+			
+			<!-- section team -->
+			<key name='section_title_team' />
+            <key name='section_subtitle_team' />
+			<key name="section_items_team">
+				<key name="0">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="1">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="2">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="3">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="4">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="5">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="6">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="7">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="8">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+			</key>
+			<!-- section testimonial -->
+			<key name='section_title_testimonial' />
+            <key name='section_subtitle_testimonial' />
+			<key name="section_items_testimonial">
+				<key name="0">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="1">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="2">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="3">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="4">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="5">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="6">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="7">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+				<key name="8">
+			   		<key name="role" />
+			  		<key name="description" />
+				</key>
+			</key>
+			<!-- section counter -->
+			<key name='section_title_counter' />
+            <key name='section_subtitle_counter' />
+			<key name="section_items_counter">
+				<key name="0">
+			  		<key name="title" />
+				</key>
+				<key name="1">
+			   		<key name="title" />
+				</key>
+				<key name="2">
+			   		<key name="title" />
+				</key>
+				<key name="3">
+			   		<key name="title" />
+				</key>
+				<key name="4">
+			   		<key name="title" />
+				</key>
+				<key name="5">
+			   		<key name="title" />
+				</key>
+				<key name="6">
+			   		<key name="title" />
+				</key>
+				<key name="7">
+			   		<key name="title" />
+				</key>
+				<key name="8">
+			   		<key name="title" />
+				</key>
+			</key>
+			<!-- section slogan -->
+			<key name='section_title_slogan' />
+            <key name='section_subtitle_slogan' />
+			<key name='section_content_slogan' />
+			<key name='section_btn_txt_slogan' />
+			
+			<!-- section video 1 -->
+			<key name='section_title_video_1' />
+            <key name='section_subtitle_video_1' />
+			
+			<!-- section blog -->
+			<key name='section_title_blog' />
+            <key name='section_subtitle_blog' />
+			<key name='section_btn_txt_blog' />
+			
+			<!-- section custom 1 -->
+			<key name='section_title_0' />
+            <key name='section_subtitle_0' />
+			<key name='section_content_0' />
+			
+			<!-- section custom 2 -->
+			<key name='section_title_1' />
+            <key name='section_subtitle_1' />
+			<key name='section_content_1' />
+			
+			<!-- section Progress Bar -->
+			<key name='section_title_progress_bar_1' />
+            <key name='section_subtitle_progress_bar_1' />
+			<key name="section_progress_progress_bar_1">
+				<key name="0">
+			   		<key name="title" />
+				</key>
+				<key name="1">
+			   		<key name="title" />
+				</key>
+				<key name="2">
+			   		<key name="title" />
+				</key>
+				<key name="3">
+			   		<key name="title" />
+				</key>
+				<key name="4">
+			   		<key name="title" />
+				</key>
+				<key name="5">
+			   		<key name="title" />
+				</key>
+				<key name="6">
+			   		<key name="title" />
+				</key>
+				<key name="7">
+			   		<key name="title" />
+				</key>
+				<key name="8">
+			   		<key name="title" />
+				</key>
+			</key>
+			
+			<!-- Progress Bar Style 2 -->
+			<key name='section_title_progress_bar_2' />
+            <key name='section_subtitle_progress_bar_2' />
+			<key name="section_progress_progress_bar_2">
+				<key name="0">
+			   		<key name="title" />
+				</key>
+				<key name="1">
+			   		<key name="title" />
+				</key>
+				<key name="2">
+			   		<key name="title" />
+				</key>
+				<key name="3">
+			   		<key name="title" />
+				</key>
+				<key name="4">
+			   		<key name="title" />
+				</key>
+				<key name="5">
+			   		<key name="title" />
+				</key>
+				<key name="6">
+			   		<key name="title" />
+				</key>
+				<key name="7">
+			   		<key name="title" />
+				</key>
+				<key name="8">
+			   		<key name="title" />
+				</key>
+			</key>
+
+        </key>
+    </admin-texts>
+</wpml-config>
