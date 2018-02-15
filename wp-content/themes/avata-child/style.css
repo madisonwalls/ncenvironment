@@ -15,7 +15,7 @@ Template: avata
   overflow: hidden;
 }
 .bcg{
-  background: url('../img/butler-farms-arial.jpg') no-repeat;
+  background: url("http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/butler-farms-arial-1.jpg") no-repeat;
   background-size: cover;
   position: absolute;
   width: 100%;
@@ -64,13 +64,13 @@ Template: avata
 
 .is-business {
   /*https://lh3.googleusercontent.com/YK8pbBkHpEumI9hKPdlMj3fvni00NHCayOWXTMqj29oxLQb5iswsjw6So7mNP07KDKAIZ39upUVX2RxwlNumAxdocNAwOchaKqXR2WEShXiytHfSIw0KaY_ceNamD_zHf7BgfysZbfDxT3l7v3o6jDpnsO61r4kf1LQ7jR0pFabgZZQ85muGydDBZ4tCUUNcw9YWCpToWLL48Gc-7HaG_beoOJdarttPpZax_HK6jfPTR2E9jBlExf9Znp66FI7xNDha6GD6-fp4u6GB46WsNaMtgF9zpvjHHLE-ezKcNPoouqoi9q4Srj3lyVSVMpqQvO7nkZiFj2PECfy77HEgYsfinfU3MPWH-979fPryASymjeiyYEZ6iWXDih11LrHhrYvR4ZqINWjgJ0DJGQ2urTIwt4xN8L3pFQsYAl3n5tqmWUp2Bj9rgzGzbqabAIN87u7a2oXfaoHZcFKFbNFOeCCixUUEKBakY-HuN52ioHUpQpQSJ_woOgsXVnWek4EtqGaUs_I4Le-I9fS6FdB7K0MJmiKYp3F4pzAvI8fvIws86SMhaFH-ZLW3vdUcvHl3XxkfZUK5iIIWRWCGBw20BO_8ljIBj-JDe7OA28N62BNHjt7SPX-PKc7NoNrVKvArSFLRnMyKZeOU7vC6nbb13rzoYdZycS05yGhp6UxqKw=w1366-h451-no*/
-    background: url("../img/grass.png") no-repeat;
+    background: url("http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/grass.png") no-repeat;
     background-size: cover;
 }
 
 .services-types-web .item.is-business .image {
   /*https://lh3.googleusercontent.com/YWGT33D52SMwEez6EspX_H1at9CzI7EBSRFsK4YgyZoU-x_GapcZC4XTijoUPrQVDiVCu_cHUD7RYr3T-XJLd4MXjR8y9mbGiw_iWLQsm93v1stbtYkfEV0OlEC1Ug_HVFWM80Aexv4NYfdreXyoqITzYvBXJExsreGKYAXci0r0x6AgyQ-KHx2DczwQEcHAGiSHIcCPykykstihQFiuVyDydclEazpGD8pbtI_UUbraAl828XlLzUqQFn8fiQszgJk-C-YS7lULZREl1QQnKqIR6KliBcUojM53nU121Gcjxr52elTIFOBEf1tlKn-55kGbprSO-j8dzA8jQRDo2b4OGP_XoCi2SYS9Whp_4G5hA-ugpbGCuwj-Of7GGFmLwTq8JJkqbpmxZ3hzXBpvEEPnqscmPtxldq9YJonhiyjVmI4kTe37M59qysQLun-wg3yjCKicLDZrlSjoJzJcoOGR_qCAyoYYjaiMbQm5ONDUsk-iScwh1R4dkbxrBX7nrrVZ-HoEfIfr1Q54gYH9_fD0NaY2dwXUVZWssObhLqrW23Eiu2NtKby6qgCFq14AjOuy-fI7xCYzX-er3EIPYNxsNjGntft0IYG3F-OTZrefywNLMO53DpzOwcm2c-3tTbCG4nPpZAUsO2l5f0YnxTgdaSnIUD9LUJ2aWhAvvQ=w472-h316-no*/
-    background-image: url("../img/hogs-in-box.png");
+    background-image: url("http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/hogs-in-box.png");
     top: 50%;
     margin-top: -200px;
     width: 50%;
@@ -82,7 +82,7 @@ Template: avata
 
 .services-types-web .item.is-consumers .image {
   /*https://lh3.googleusercontent.com/YWGT33D52SMwEez6EspX_H1at9CzI7EBSRFsK4YgyZoU-x_GapcZC4XTijoUPrQVDiVCu_cHUD7RYr3T-XJLd4MXjR8y9mbGiw_iWLQsm93v1stbtYkfEV0OlEC1Ug_HVFWM80Aexv4NYfdreXyoqITzYvBXJExsreGKYAXci0r0x6AgyQ-KHx2DczwQEcHAGiSHIcCPykykstihQFiuVyDydclEazpGD8pbtI_UUbraAl828XlLzUqQFn8fiQszgJk-C-YS7lULZREl1QQnKqIR6KliBcUojM53nU121Gcjxr52elTIFOBEf1tlKn-55kGbprSO-j8dzA8jQRDo2b4OGP_XoCi2SYS9Whp_4G5hA-ugpbGCuwj-Of7GGFmLwTq8JJkqbpmxZ3hzXBpvEEPnqscmPtxldq9YJonhiyjVmI4kTe37M59qysQLun-wg3yjCKicLDZrlSjoJzJcoOGR_qCAyoYYjaiMbQm5ONDUsk-iScwh1R4dkbxrBX7nrrVZ-HoEfIfr1Q54gYH9_fD0NaY2dwXUVZWssObhLqrW23Eiu2NtKby6qgCFq14AjOuy-fI7xCYzX-er3EIPYNxsNjGntft0IYG3F-OTZrefywNLMO53DpzOwcm2c-3tTbCG4nPpZAUsO2l5f0YnxTgdaSnIUD9LUJ2aWhAvvQ=w472-h316-no*/
-    background-image: url("../img/light.png");
+    background-image: url("http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/light.png");
     top: -50%;
     margin-top: -200px;
     width: 50%;
@@ -94,7 +94,7 @@ Template: avata
 
 .services-types-web .item.is-consumer .image {
   /*https://lh3.googleusercontent.com/vOcLw57RecI7CZuQJHwqtanmQUJjBouc4BA0T2dNuN8RfisR1WbClXJyOX5IxkwDG3dcy0Pb5XD_WMVdO2canP1hICzq1LsHIftyNZR8LRC4QCDCHyH-RqAvBLXFkq7DhEOpJd9Tudo8mz8obaRFW5libfgtH_6PW98jIIS-UCqz9Njnomb7T0_I1rjYWBSTaAGXE_sHleQHBGpt-d7hwCI55TnEgzs8WeGLjY_7wppc-KktaG9qsgs8NST5W0De2nddo0ap9yUf0R3FobKftUh8AkEGAWduteaS9-Y20sVGmuKrE2GxKecBP3W1zLKD9Z1cLB75V1sXL93QQZizzprbwmV4Vyqg1V6XLPE0lI6rtxaEOeeALxTNVT7iN6zUX46ia8xhAOPZG0JF1kifhBGFWIZ9jcGJrOwV4_Qbn2brsMPAO2zExuAtsOZydPY8AfzaZaYnxlddMluyYeNETXyhlchM4COJPaERwVWQGba1cftMq2SJthmSihXOCM3Z8S96q4Q3OL7bESuDbUf3CDNLDX8oPvOoCCxRsatUvPQxwOPuUy8KWrubwjFQOqJTJDntqnX7eZZlMU1LFgpIdTBMAVS8yHIzwSoTyoRHuQ0FX_0WMlW6m7eCh7WH7dTvS2wtN7GJtKmOEk2tEPtVRjuT-FyHKJTVFHJHObbPiQ=w691-h463-no*/
-    background-image: url("../img/lagoon-in-box.png");
+    background-image: url("http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/lagoon-in-box.png");
     top: -50%;
     margin-top: -200px;
     width: 50%;
@@ -105,7 +105,7 @@ Template: avata
 }
 
 .services-types-web .item.is-consumer {
-  background-image: url("../img/system-blurry4.png");
+  background-image: url("http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/system-blurry4.png");
   background-size: contain;
   background-repeat: no-repeat;
     /* background: #532c61; */
