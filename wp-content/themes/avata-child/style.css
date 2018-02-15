@@ -2,3 +2,168 @@
 Theme Name: Avata Child
 Template: avata
 */
+.story-text{
+  width: 70%;
+  padding: 100px;
+  margin: 10px;
+  margin:auto;
+}
+.last-slide{
+  background-color: #67A573;
+}
+.bcg-parallax{
+  padding: 150px 0;
+  color: #FFF;
+  background-color: #000;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.bcg{
+  background: url('../img/butler-farms-arial.jpg') no-repeat;
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 150%;
+  top: 0;
+  z-index: 1;
+  opacity: 0.7;
+}
+.content-wrapper{
+  width: 60%;
+  margin: 0 auto;
+  max-width: 1140px;
+  position: relative;
+  z-index: 2;
+}
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#intro {
+    height: 100vh;
+    background: radial-gradient(circle, #74A6EE 0%, #485CB2 100%);
+    text-align: center;
+    color: #fff;
+}
+
+#intro .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.services-types .item {
+    height: 100vh;
+    position: relative;
+}
+
+.scrollmagic-pin-spacer {
+    position: absolute !important;
+    clip: rect(auto, auto, auto, auto);
+    width: 100%;
+    height: 100% !important;
+}
+
+.pin-wrapper {
+    height: 100%;
+}
+
+.is-business {
+  /*https://lh3.googleusercontent.com/YK8pbBkHpEumI9hKPdlMj3fvni00NHCayOWXTMqj29oxLQb5iswsjw6So7mNP07KDKAIZ39upUVX2RxwlNumAxdocNAwOchaKqXR2WEShXiytHfSIw0KaY_ceNamD_zHf7BgfysZbfDxT3l7v3o6jDpnsO61r4kf1LQ7jR0pFabgZZQ85muGydDBZ4tCUUNcw9YWCpToWLL48Gc-7HaG_beoOJdarttPpZax_HK6jfPTR2E9jBlExf9Znp66FI7xNDha6GD6-fp4u6GB46WsNaMtgF9zpvjHHLE-ezKcNPoouqoi9q4Srj3lyVSVMpqQvO7nkZiFj2PECfy77HEgYsfinfU3MPWH-979fPryASymjeiyYEZ6iWXDih11LrHhrYvR4ZqINWjgJ0DJGQ2urTIwt4xN8L3pFQsYAl3n5tqmWUp2Bj9rgzGzbqabAIN87u7a2oXfaoHZcFKFbNFOeCCixUUEKBakY-HuN52ioHUpQpQSJ_woOgsXVnWek4EtqGaUs_I4Le-I9fS6FdB7K0MJmiKYp3F4pzAvI8fvIws86SMhaFH-ZLW3vdUcvHl3XxkfZUK5iIIWRWCGBw20BO_8ljIBj-JDe7OA28N62BNHjt7SPX-PKc7NoNrVKvArSFLRnMyKZeOU7vC6nbb13rzoYdZycS05yGhp6UxqKw=w1366-h451-no*/
+    background: url("../img/grass.png") no-repeat;
+    background-size: cover;
+}
+
+.services-types-web .item.is-business .image {
+  /*https://lh3.googleusercontent.com/YWGT33D52SMwEez6EspX_H1at9CzI7EBSRFsK4YgyZoU-x_GapcZC4XTijoUPrQVDiVCu_cHUD7RYr3T-XJLd4MXjR8y9mbGiw_iWLQsm93v1stbtYkfEV0OlEC1Ug_HVFWM80Aexv4NYfdreXyoqITzYvBXJExsreGKYAXci0r0x6AgyQ-KHx2DczwQEcHAGiSHIcCPykykstihQFiuVyDydclEazpGD8pbtI_UUbraAl828XlLzUqQFn8fiQszgJk-C-YS7lULZREl1QQnKqIR6KliBcUojM53nU121Gcjxr52elTIFOBEf1tlKn-55kGbprSO-j8dzA8jQRDo2b4OGP_XoCi2SYS9Whp_4G5hA-ugpbGCuwj-Of7GGFmLwTq8JJkqbpmxZ3hzXBpvEEPnqscmPtxldq9YJonhiyjVmI4kTe37M59qysQLun-wg3yjCKicLDZrlSjoJzJcoOGR_qCAyoYYjaiMbQm5ONDUsk-iScwh1R4dkbxrBX7nrrVZ-HoEfIfr1Q54gYH9_fD0NaY2dwXUVZWssObhLqrW23Eiu2NtKby6qgCFq14AjOuy-fI7xCYzX-er3EIPYNxsNjGntft0IYG3F-OTZrefywNLMO53DpzOwcm2c-3tTbCG4nPpZAUsO2l5f0YnxTgdaSnIUD9LUJ2aWhAvvQ=w472-h316-no*/
+    background-image: url("../img/hogs-in-box.png");
+    top: 50%;
+    margin-top: -200px;
+    width: 50%;
+    height: 463px;
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.services-types-web .item.is-consumers .image {
+  /*https://lh3.googleusercontent.com/YWGT33D52SMwEez6EspX_H1at9CzI7EBSRFsK4YgyZoU-x_GapcZC4XTijoUPrQVDiVCu_cHUD7RYr3T-XJLd4MXjR8y9mbGiw_iWLQsm93v1stbtYkfEV0OlEC1Ug_HVFWM80Aexv4NYfdreXyoqITzYvBXJExsreGKYAXci0r0x6AgyQ-KHx2DczwQEcHAGiSHIcCPykykstihQFiuVyDydclEazpGD8pbtI_UUbraAl828XlLzUqQFn8fiQszgJk-C-YS7lULZREl1QQnKqIR6KliBcUojM53nU121Gcjxr52elTIFOBEf1tlKn-55kGbprSO-j8dzA8jQRDo2b4OGP_XoCi2SYS9Whp_4G5hA-ugpbGCuwj-Of7GGFmLwTq8JJkqbpmxZ3hzXBpvEEPnqscmPtxldq9YJonhiyjVmI4kTe37M59qysQLun-wg3yjCKicLDZrlSjoJzJcoOGR_qCAyoYYjaiMbQm5ONDUsk-iScwh1R4dkbxrBX7nrrVZ-HoEfIfr1Q54gYH9_fD0NaY2dwXUVZWssObhLqrW23Eiu2NtKby6qgCFq14AjOuy-fI7xCYzX-er3EIPYNxsNjGntft0IYG3F-OTZrefywNLMO53DpzOwcm2c-3tTbCG4nPpZAUsO2l5f0YnxTgdaSnIUD9LUJ2aWhAvvQ=w472-h316-no*/
+    background-image: url("../img/light.png");
+    top: -50%;
+    margin-top: -200px;
+    width: 50%;
+    height: 463px;
+    position: absolute;
+     background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.services-types-web .item.is-consumer .image {
+  /*https://lh3.googleusercontent.com/vOcLw57RecI7CZuQJHwqtanmQUJjBouc4BA0T2dNuN8RfisR1WbClXJyOX5IxkwDG3dcy0Pb5XD_WMVdO2canP1hICzq1LsHIftyNZR8LRC4QCDCHyH-RqAvBLXFkq7DhEOpJd9Tudo8mz8obaRFW5libfgtH_6PW98jIIS-UCqz9Njnomb7T0_I1rjYWBSTaAGXE_sHleQHBGpt-d7hwCI55TnEgzs8WeGLjY_7wppc-KktaG9qsgs8NST5W0De2nddo0ap9yUf0R3FobKftUh8AkEGAWduteaS9-Y20sVGmuKrE2GxKecBP3W1zLKD9Z1cLB75V1sXL93QQZizzprbwmV4Vyqg1V6XLPE0lI6rtxaEOeeALxTNVT7iN6zUX46ia8xhAOPZG0JF1kifhBGFWIZ9jcGJrOwV4_Qbn2brsMPAO2zExuAtsOZydPY8AfzaZaYnxlddMluyYeNETXyhlchM4COJPaERwVWQGba1cftMq2SJthmSihXOCM3Z8S96q4Q3OL7bESuDbUf3CDNLDX8oPvOoCCxRsatUvPQxwOPuUy8KWrubwjFQOqJTJDntqnX7eZZlMU1LFgpIdTBMAVS8yHIzwSoTyoRHuQ0FX_0WMlW6m7eCh7WH7dTvS2wtN7GJtKmOEk2tEPtVRjuT-FyHKJTVFHJHObbPiQ=w691-h463-no*/
+    background-image: url("../img/lagoon-in-box.png");
+    top: -50%;
+    margin-top: -200px;
+    width: 50%;
+    height: 463px;
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.services-types-web .item.is-consumer {
+  background-image: url("../img/system-blurry4.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+    /* background: #532c61; */
+    /* background: -webkit-linear-gradient(300deg, #532c61 0%, #372a6d 50%, #17698f 100%); */
+    /* background: linear-gradient(150deg, #532c61 0%, #372a6d 50%, #17698f 100%); */
+}
+
+.title {
+    color: #black;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    /* text-transform: uppercase; */
+    font-weight: 600;
+    width: 600px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.titles {
+    color: #3f434a;
+    position: absolute;
+    top: -50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    /* text-transform: uppercase; */
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    width: 45%;
+}
+
+.list {
+    color: #fff;
+    position: absolute;
+    top: -50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    font-size: 17px;
+    text-align: left;
+    width: 40%;
+}
+
+.list li {
+    border-bottom: 1px solid #8e8e8e;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
