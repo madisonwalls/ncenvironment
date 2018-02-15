@@ -2,12 +2,7 @@
 Theme Name: Avata Child
 Template: avata
 */
-.story-text{
-  width: 70%;
-  padding: 100px;
-  margin: 10px;
-  margin:auto;
-}
+
 .last-slide{
   background-color: #67A573;
 }
@@ -35,12 +30,6 @@ Template: avata
   max-width: 1140px;
   position: relative;
   z-index: 2;
-}
-
-body {
-    overflow-x: hidden;
-    margin: 0;
-    font-family: 'Source Sans Pro', sans-serif;
 }
 
 #intro {
@@ -166,4 +155,5 @@ body {
     border-bottom: 1px solid #8e8e8e;
     margin-bottom: 15px;
     padding-bottom: 10px;
+    color: black;
 }
