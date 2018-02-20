@@ -1,4 +1,5 @@
-$(document).ready(function() {
+jQuery(document).ready(function() {
+
 
     // Init ScrollMagic
     var controller = new ScrollMagic.Controller();
