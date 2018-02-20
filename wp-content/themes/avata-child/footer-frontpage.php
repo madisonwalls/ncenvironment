@@ -9,7 +9,7 @@
     <div class="container">
       <div class="row">
         <?php $footer_columns = 3; ?>
-				<div class="col-sm-12 col-md-3 col-lg-3">
+				<div class="col-sm-6 col-md-3 col-lg-3">
 					<h4>STORIES<h4>
 						<ul>
 							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/gen-x/">Gen X</a></li>
@@ -23,10 +23,10 @@
 							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/bees/">Bees</a></li>
 				</ul>
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-6 col-md-6 col-lg-6">
 					<p>MEJO584 is a class where students work on a semester-long documentary multimedia project that includes photo and video journalists, audio recordists, designers, infographics artists, and programmers.</p>
 				</div>
-				<div class="col-sm-12 col-md-3 col-lg-3">
+				<div class="col-sm-6 col-md-3 col-lg-3">
 					<img src="http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/School-of-Media-and-Journalism_logo_white_h.png">
 					<img src="http://ncenvironment-madilyn.cloudapps.unc.edu/wp-content/uploads/2018/02/UNC_logo_white.png">
 				</div>
