@@ -10,16 +10,18 @@
       <div class="row">
         <?php $footer_columns = 3; ?>
 				<div class="col-sm-12 col-md-3 col-lg-3">
-					STORIES
-					<a href="https://ncenvironment-madilyn.cloudapps.unc.edu/gen-x/">Gen X</a>
+					<h4>STORIES<h4>
+						<ul>
+							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/gen-x/">Gen X</a></li>
 
-					<a href="https://ncenvironment-madilyn.cloudapps.unc.edu/urban-farming/">Urban Farming</a>
+							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/urban-farming/">Urban Farming</a></li>
 
-					<a href="https://ncenvironment-madilyn.cloudapps.unc.edu/coal-ash/">Coal Ash</a>
+							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/coal-ash/">Coal Ash</a></li>
 
-					<a href="https://ncenvironment-madilyn.cloudapps.unc.edu/hog-poop/">Hog Poop</a>
+							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/hog-poop/">Hog Poop</a></li>
 
-					<a href="https://ncenvironment-madilyn.cloudapps.unc.edu/bees/">Bees</a>
+							<li style="text-decoration:none;"><a href="https://ncenvironment-madilyn.cloudapps.unc.edu/bees/">Bees</a></li>
+				</ul>
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6">
 					<p>MEJO584 is a class where students work on a semester-long documentary multimedia project that includes photo and video journalists, audio recordists, designers, infographics artists, and programmers.</p>
